@@ -1,6 +1,6 @@
-# The Graph Indexer Futures 
+# Horizon Futures 
 
-Indexer Futures is a decentralized application (dApp) prototype built on Arbitrum, designed to facilitate futures contracts between The Graph Indexers and buyers. This project is currently a prototype and integrates with The Graph's existing infrastructure.
+Horizon Futures is a decentralized application (dApp) prototype built on Arbitrum, designed to facilitate futures contracts between The Graph Indexers and buyers. This project is currently a prototype and integrates with The Graph's existing infrastructure.
 
 ## Overview
 
