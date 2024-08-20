@@ -2,6 +2,8 @@
 
 Horizon Futures is a decentralized application (dApp) prototype built on Arbitrum, designed to facilitate futures contracts between The Graph Indexers and buyers. This project is currently a prototype and integrates with The Graph's existing infrastructure.
 
+![Project Diagram](Horizon_Futures.png)
+
 ## Overview
 
 This prototype demonstrates a system for creating, managing, and settling futures contracts for The Graph Indexers. It aims to enhance the ecosystem by providing a way for indexers to secure future income and for buyers to lock in indexing services.
