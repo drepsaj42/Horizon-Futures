@@ -42,10 +42,6 @@ This project is a prototype and has several limitations:
 - Comprehensive testing and security audit
 - Development of a user-friendly frontend
 
-## Contributing
-
-This project is in early stages and not yet open for public contributions. However, feedback and suggestions are welcome through the project's issue tracker.
-
 
 ---
 
