@@ -25,19 +25,6 @@ The main contract, `IndexerFuturesContract`, manages futures and stakes. It incl
 - Basic POI submission (to be expanded in future versions)
 - Integration with The Graph's existing contracts
 
-## Setup and Usage (For Testing Only)
-
-1. Clone the repository
-2. Set up the smart contract:
-   ```
-   cd contract
-   cargo build --release
-   ```
-
-## Deployment
-
-The smart contract can be deployed to Arbitrum for testing. Detailed deployment instructions are available in the project documentation.
-
 ## Current Status and Limitations
 
 This project is a prototype and has several limitations:
