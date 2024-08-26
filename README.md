@@ -27,15 +27,6 @@ The main contract, `IndexerFuturesContract`, manages futures and stakes. It incl
 - Basic POI submission (to be expanded in future versions)
 - Integration with The Graph's existing contracts
 
-## Current Status and Limitations
-
-This project is a prototype and has several limitations:
-
-- Not audited or ready for production use
-- Limited integration with The Graph's infrastructure
-- Basic POI submission functionality (future versions will integrate with Graphcast)
-- Simplified indexer performance checking
-
 ## Next Steps
 
 - Full integration with Graphcast for decentralized POI validation
@@ -44,14 +35,3 @@ This project is a prototype and has several limitations:
 - Comprehensive testing and security audit
 - Development of a user-friendly frontend
 
-
----
-
-Note: This project is a prototype for research and testing purposes only. Do not use with real assets or in a production environment without proper auditing and further development.
-
-For more information on The Graph and Arbitrum, please refer to their official documentation:
-
-- [The Graph](https://thegraph.com/docs/)
-- [Arbitrum](https://developer.arbitrum.io/docs/overview)
-
-For any questions or support, please open an issue in the GitHub repository.
